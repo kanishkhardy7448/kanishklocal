@@ -34,7 +34,8 @@ public class Arithmetic
 		int resultsub=A.sub(resultsum, 2);
 		int resultsub2=A.sub(resultsub,2);
 		int resultsum2=A.sum(resultsub2, 2);
-		A.div(resultsum2,2);		
+		A.div(resultsum2,2);	
+		System.out.println("kanisk has made some changes");
 	}
 }
 

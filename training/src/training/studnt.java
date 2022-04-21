@@ -10,6 +10,7 @@ public class studnt
 	public void met2()
 	{
 		System.out.println("Automation is quite easy");
+		System.out.println("kanishk is a cheater");
 	}
 	public static void main(String[] args)
 	{
