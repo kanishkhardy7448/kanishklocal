@@ -28,6 +28,6 @@ public class Const
 	}
 	public static void main(String[] args) 
 	{
-		Const C = new Const(1);	
+		new Const(1);	
 	}
 }
